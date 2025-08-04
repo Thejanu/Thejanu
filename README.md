@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Thejanu Shanthusha!
 
-Welcome to my digital space where creativity meets code.  
+Welcome to my digital space.  
 I'm a **future-ready full-stack developer** fueled by curiosity, passion, and just the right amount of caffeine. Whether it's crafting sleek interfaces or architecting behind-the-scenes logic, I thrive on building things that live and breathe on the web.
 
 Oh, and when I’m not writing code you'll probably find me dominating in-game lobbies. 🎮
