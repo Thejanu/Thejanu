@@ -29,7 +29,7 @@ Oh, and when I’m not writing code you'll probably find me dominating in-game l
 ## 📬 Let's Connect
 
 I'm always open to learning, collaboration, and of course talking games and code. Feel free to reach out or check out my projects!
-You can find me on [LinkedIn](linkedin.com/in/thejanu-s-3a0b2a293) <!-- Add your real link here -->
+You can find me on [LinkedIn](https://www.linkedin.com/in/thejanu-s-3a0b2a293/) <!-- Add your real link here -->
 
 
 ---
